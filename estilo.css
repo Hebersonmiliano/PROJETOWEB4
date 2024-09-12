@@ -1,0 +1,17 @@
+h1{
+    color: rgb(99, 42, 165);
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    
+}
